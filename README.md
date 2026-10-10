@@ -5,4 +5,4 @@ how to run the project step by step process
  step3:python -m venv venv this in for create command for venv
   step 4:.\venv\Scripts\Activate this is for activating the virtual environment
  step 5:now run the project by using this command python main.py
-
+Step 6:install the packages pip install -r requirements.txt and pip install python-dotenv
