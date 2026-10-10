@@ -1,0 +1,6 @@
+langchain>=1.0
+langchain-classic
+langchain-core
+langchain-google-genai
+pydantic>=2
+python-dotenv
